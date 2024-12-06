@@ -77,4 +77,4 @@ jobs:
       # specification of script
         inlineScript:
           Set-AzSecurityPricing -Name "KeyVaults" -PricingTier "Standard"
-        azPSVersion: latest 
+        azPSVersion: latest
